@@ -2,7 +2,13 @@
 
 ## Overview
 
-This is a simple React Native project that demonstrates the integration of Google Maps, Redux state management, and React Native Paper UI components. The project provides a starting point for developers looking to build mobile applications that involve maps, state management, and a consistent user interface.
+This React Native project is a part of Binus University coursework.
+
+Project Description:
+This is a simple React Native project that demonstrates the integration of Google Maps,
+Redux state management, and React Native Paper UI components. The project provides a
+starting point for developers looking to build mobile applications that involve maps,
+state management, and a consistent user interface.
 
 ## Features
 
@@ -22,7 +28,7 @@ This is a simple React Native project that demonstrates the integration of Googl
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/alfin-ardian/tugas-personal-2.git
    ```
 
 2. Install dependencies:
