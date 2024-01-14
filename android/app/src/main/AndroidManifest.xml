@@ -2,5 +2,5 @@
    <!-- You will only need to add this meta-data tag, but make sure it's a child of application -->
    <meta-data
      android:name="com.google.android.geo.API_KEY"
-     android:value="AIzaSyCLzjv60dsQJnTgVG3OQO3tESWVTyQuXo8"/>
+     android:value="REACT_API_KEY"/>
 </application>
